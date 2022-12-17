@@ -1,0 +1,6 @@
+site_name: Abinav Atreya's Blog
+nav:
+  - Home: index.md
+
+theme:
+  name: material
