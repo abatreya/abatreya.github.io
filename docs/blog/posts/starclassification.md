@@ -10,7 +10,7 @@ categories:
 
 ## How Are Stars Classified?
 
-Stars are classified based on their visual traits, like colour, and phyisical traits, like size and mass. **Star Classification** is a way to classify stars, either based on their colour and/or size and mass.  Since stars have so much variety in between them, classifying stars allows astronomers to find a star with certain characteristics much easier.  Astronomers also classify stars in order to better understand the different types of stars in both our galaxy and our universe.
+Stars are classified based on their visual traits, like colour, and phyisical traits, like size and mass. Star Classification is a way to classify stars, either based on their color and/or size and mass. Since stars have so much variety in between them, classifying stars allows astronomers to find a star with certain characteristics much easier.  Astronomers also classify stars in order to better understand the different types of stars in both our galaxy and our universe.
 
 
 
@@ -19,12 +19,13 @@ Stars are classified based on their visual traits, like colour, and phyisical tr
 ---
 
 ## Why is classification needed? 
-Astronomers classify stars in order to make it easier to find a specific star amongst millions and to better understand different stars within the universe.
+Astronomers classify stars in order to make it easier to find a specific star amongst millions and to better understand how different stars behave. 
 
 ## Classification 
 
 ### Color based
-One way of classifying stars is based on their colour. The different classifications of stars based off their colour:
+
+One way of classifying stars is based on their color. 
 
 1. M: Red Stars
 2. K: Orange Stars
@@ -34,25 +35,25 @@ One way of classifying stars is based on their colour. The different classificat
 6. B: Blue-White Stars
 7. O: Blue Stars
 
+For example, our own Sun which is yellow in color is classified as a "G-Type" star.
+
 
 ### Size/Mass based
 
-Another way of classifying stars is based on their size and/or mass. The different classifications of stars based off their size &/or mass:
+Another way of classifying stars is based on their size and/or mass. 
 
-1. Dwarfs: "Smaller" stars that make up the magority of stars in the universe.  Are almost always in main sequence.
-2. Giants:  Larger stars that tend to be the aged phase of dwarf stars.  Are rarely main sequence.
-3. Supergiants:  Even larger stars that are the aged phase of Giant stars.  Are only main sequence for O & B type stars.
-4. Hypergiants:  Extremely large stars that are the aged phase of O & B supergiants.  They are basically just supergiants on overdrive.
+1. Dwarfs: "Smaller" stars that make up the magority of stars in the universe.  
+2. Giants:  Larger stars that tend to be the aged phase of dwarf stars.  
+3. Supergiants:  Even larger stars that are the aged phase of Giant stars. 
+4. Hypergiants:  Extremely large stars that are the aged phase of O & B supergiants. 
 
 ### Blended Classifications 
 
-In reality, these classifications are combined in order to ensure no overlaps. For example, in the constellation Orion, the star Betelgeuse is a "M-type Supergiant" star, and the star Rigel is a "B-type Supergiant".
+In reality, both classifications are combined in order to ensure there are no overlaps. For example, in the constellation Orion, the red star Betelgeuse is classified as a "M-type Supergiant", and the blue-white star Rigel is a "B-type Supergiant". You can see both together in the picture below. 
 
 ![Orion Constellation](images/starclassification/orion.png)
 
 ---
 ## Summary
 
-Stars are classified in many ways, which can help if one star needs to be found out of a datapool of millions.  
-
-Thank you for reading this blog! If you want to research further into these subjects, I would suggest [visiting](https://universe.nasa.gov/stars/types/).
+Stars are classified in many ways, which can help if one star needs to be found out of a datapool of millions. Thank you for reading this blog! If you want to research further into these subjects, I would suggest [visiting](https://universe.nasa.gov/stars/types/).
