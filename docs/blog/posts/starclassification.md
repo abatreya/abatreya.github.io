@@ -44,12 +44,12 @@ Another way of classifying stars is based on their size and/or mass. The differe
 3. Supergiants:  Even larger stars that are the aged phase of Giant stars.  Are only main sequence for O & B type stars.
 4. Hypergiants:  Extremely large stars that are the aged phase of O & B supergiants.  They are basically just supergiants on overdrive.
 
+### Blended Classifications 
 
-Usually, these classifications are combined in order to ensure no overlaps.  For example, in the constellation Orion, the star Betelgeuse is a M-type Supergiant star, and the star Rigel is a B-type Supergiant.
+In reality, these classifications are combined in order to ensure no overlaps. For example, in the constellation Orion, the star Betelgeuse is a "M-type Supergiant" star, and the star Rigel is a "B-type Supergiant".
 
-![Beletgeuse](images/starclassification/Betelgeuse_Blog(1).jpeg) (Betelgeuse)
+![Orion Constellation](images/starclassification/orion.png)
 
-![Rigel](images/starclassification/Rigel_Blog(1).png) (Rigel)
 ---
 ## Summary
 
