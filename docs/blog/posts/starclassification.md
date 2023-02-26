@@ -10,7 +10,7 @@ categories:
 
 ## How Are Stars Classified?
 
-Stars are classified based on their visual traits, like colour, and phisical traits, like size and mass. **Star Classification** is a way to classify stars, either based on their colour and/or size and mass.  
+Stars are classified based on their visual traits, like colour, and phyisical traits, like size and mass. **Star Classification** is a way to classify stars, either based on their colour and/or size and mass.  Since stars have so much variety in between them, classifying stars allows astronomers to find a star with certain characteristics much easier.  Astronomers also classify stars in order to better understand the different types of stars in both our galaxy and our universe.
 
 
 
@@ -19,7 +19,7 @@ Stars are classified based on their visual traits, like colour, and phisical tra
 ---
 
 ## Why is classification needed? 
-People classify stars in order to make it easier to find a specific star amongst millions.
+Astronomers classify stars in order to make it easier to find a specific star amongst millions and to better understand different stars within the universe.
 
 ## Classification 
 
