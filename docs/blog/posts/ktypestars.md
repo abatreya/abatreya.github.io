@@ -3,11 +3,7 @@ date: 2023-04-07
 description: >
   All about K-Type Stars
 categories:
-  - Science
-  - Orange Dwarfs
-  - Stars
-  - Space
-  - Superhabitability
+  - Star Classification
 ---
 
 # All about K-Type Stars
