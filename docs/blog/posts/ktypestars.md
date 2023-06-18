@@ -14,14 +14,16 @@ categories:
 
 On March 21st, I wrote a blog on [M-Type](../posts/mtypestars.md) stars which followed my blog on [star classification](../posts/starclassification.md). Today, I will continue this series with the next star type in line "K-Type" stars.
 
-## What are K-Type Stars? 
-
-K-Type Stars are stars that are between **0.45 to 0.8** solar masses. They glow orange and can live 17 billion to 70 billion years. K-type stars are known to have **low levels of activity** especially compared to red dwarves (M-type stars). Many K-Type stars have planets, and with this comes something very interesting. 
-
 Read on below. 
 
 
 <!-- more -->
+
+---
+
+## What are K-Type Stars? 
+
+K-Type Stars are stars that are between **0.45 to 0.8** solar masses. They glow orange and can live 17 billion to 70 billion years. K-type stars are known to have **low levels of activity** especially compared to red dwarves (M-type stars). Many K-Type stars have planets, and with this comes something very interesting. 
 
 ---
 
