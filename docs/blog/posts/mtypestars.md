@@ -9,7 +9,8 @@ categories:
   - Space
 ---
 
-## All about M-Type Stars
+# All about M-Type Stars
+
 On 26th Feb 2023, I wrote a blog about how stars are classified.  Today, this blog is going to part of a specific type of star.  M-Type Stars.
 
 M-type stars can either be very small or very big.  The smallest versions, M-Type Dwarfs, are in fact, the most common stars in the universe. Their mass tends to be below 40% of the mass of our sun, their luminosity is usually very dim and red in color and these stars commonly have very long lifetimes because they burn their hydrogen slowly.  The larger versions, Red Giants, are basically stars that are so big they are about to disperse.  Red Super/Hypergiants are even larger and more extreme. (Remember that M-Type refers to the color, which in this case is red)
