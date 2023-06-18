@@ -8,7 +8,7 @@ categories:
   - CAL Academy of Sciences
 ---
 
-## The Living Roof on the California Academy Of Sciences
+# The Living Roof on the California Academy Of Sciences
 
 On 6th Jan 2023, I had the opportunity to visit the [California Academy of Sciences](https://www.calacademy.org) in San Fransisco.  Intrestingly, as we soon discovered, there was a whole proper micro-ecosystem on the roof.
 

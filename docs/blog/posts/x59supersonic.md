@@ -9,7 +9,7 @@ categories:
   - Lockheed Martin
 ---
 
-## X59 Supersonic Project
+# X59 Supersonic Project
 
 On the 10th of December 2022, I had the opportunity to attend a Lecture at Chabot Space Center on [NASA's X59](https://www.nasa.gov/X59) project. The lecture was presented by a scientist from [NASA Ames](https://www.nasa.gov/ames). 
 

@@ -8,7 +8,7 @@ categories:
   - Astronomy
 ---
 
-## Ten Interesting Things about JWST 
+# Ten Interesting Things about JWST 
 
 On 7th Nov 2022, I had the opportunity to attend a [Dean's Lecture](https://www.calacademy.org/events/benjamin-dean-astronomy-lectures) on James Webb Telescope at the [California Academy of Sciences](https://www.calacademy.org/) in San Francisco, CA. 
 
